@@ -1,4 +1,4 @@
-# were wolf discord bot
+# Were-wolf discord bot
 just a discord bot can play were wolf in discord
 
 it was written when I was learn coding for two months
